@@ -1,3 +1,6 @@
-# Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
+title: Title best
+description: Clean, responsive site:)
+show_downloads: true
+google_analytics:
