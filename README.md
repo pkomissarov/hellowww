@@ -1,5 +1,5 @@
 # Build settings
 markdown: kramdown
-theme: THEME-NAME
+theme: cayman
 # hellowww
 Hello Web, Privet Mir
