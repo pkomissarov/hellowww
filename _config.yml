@@ -2,5 +2,5 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 title: Title best
 description: Clean, responsive site:)
-show_downloads: true
+show_downloads: false
 google_analytics:
